@@ -12,6 +12,7 @@ Here are the links I've mentioned during the presentation to help you get more d
 
 - [Polygon Technology](https://polygon.technology/)
 - [Polygon zkEVM](https://polygon.technology/solutions/polygon-zkevm/)
+- [VIDEO - Jordi Baylina - Polygon Hermez zkEVM testnet](https://www.youtube.com/watch?v=gqR59CWCiAk)
 - [Proof of Efficiency: A new consensus mechanism for zk-rollups](https://ethresear.ch/t/proof-of-efficiency-a-new-consensus-mechanism-for-zk-rollups/11988)
 - [The different types of ZK-EVMs, Vitalik Buterin](https://vitalik.ca/general/2022/08/04/zkevm.html)
 - [We're hiring](https://polygon.technology/careers)
